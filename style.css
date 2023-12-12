@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background: rgba(255, 217, 0, 1);
+    height: 118px;
+}
+
+#img-cabecalho {
+    margin-left: 5%;
+    padding-top: 27px;
+}
+
+#conteudo {
+    float: inline-start;
+    width: 850px;
+    height: 745px;
+    padding-top: 31px;
+    background: rgba(81, 73, 136, 1);
+}
+
+#parte-1 {
+    text-align: center;
+}
+
+#P-1 {
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 85px;
+    color: rgba(243, 198, 31, 1);
+}
+
+#P-2 {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36.5px;
+    color: white;
+}
+
+#parte-2 {
+    text-align: center;
+    margin-top: 72px;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    color: white;
+}
+
+.container {
+    display: inline-flex;
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 85px;
+    letter-spacing: 0em;
+    color: rgba(81, 73, 136, 1);
+}
+
+.container .timer {
+    padding: 30px;
+}
+
+#P-3 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(227, 56, 129, 1);
+}
+
+.img {
+    margin-left: 100px;
+    width: 1000px;
+    padding: 15px;
+}
